@@ -117,9 +117,9 @@
 			this.lbl_AusgabeVorname.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.lbl_AusgabeVorname.Location = new System.Drawing.Point(134, 221);
 			this.lbl_AusgabeVorname.Name = "lbl_AusgabeVorname";
-			this.lbl_AusgabeVorname.Size = new System.Drawing.Size(89, 20);
+			this.lbl_AusgabeVorname.Size = new System.Drawing.Size(83, 20);
 			this.lbl_AusgabeVorname.TabIndex = 3;
-			this.lbl_AusgabeVorname.Text = "Vorname:";
+			this.lbl_AusgabeVorname.Text = "Vorname";
 			// 
 			// lbl_AusgabeNachname
 			// 
@@ -127,9 +127,9 @@
 			this.lbl_AusgabeNachname.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.lbl_AusgabeNachname.Location = new System.Drawing.Point(496, 221);
 			this.lbl_AusgabeNachname.Name = "lbl_AusgabeNachname";
-			this.lbl_AusgabeNachname.Size = new System.Drawing.Size(103, 20);
+			this.lbl_AusgabeNachname.Size = new System.Drawing.Size(97, 20);
 			this.lbl_AusgabeNachname.TabIndex = 4;
-			this.lbl_AusgabeNachname.Text = "Nachname:";
+			this.lbl_AusgabeNachname.Text = "Nachname";
 			// 
 			// label4
 			// 
